@@ -11,7 +11,7 @@ html body{
 }
 
 body{
-    background: url(../image/title_back.webp) no-repeat ;
+    background: url(../image/title_back_compressed.webp) no-repeat ;
     background-size:cover;
     background-attachment: fixed;
 }
